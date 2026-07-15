@@ -31,10 +31,10 @@ public class Student {
 }
     void displayMarks()
 {
-    System.out.prinltn(RE);
-    System.out.prinltn(SDA);
-    System.out.prinltn(SQAT);
-    System.out.prinltn(SEAM);
-    System.out.prinltn(FM);
+    System.out.println(RE);
+    System.out.println(SDA);
+    System.out.println(SQAT);
+    System.out.println(SEAM);
+    System.out.println(FM);
     }
 }
